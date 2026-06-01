@@ -41,5 +41,4 @@ The goal was to collect, transform, and import threat intelligence data into Ope
 - SOC-style documentation
 - Threat intelligence workflow automation
 
-## Report
-The full PDF report with screenshots is included in this folder.
+[View Full PDF Report](./OpenCTI-Threat-Intelligence-Integration-Report.pdf)
